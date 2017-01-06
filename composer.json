@@ -1,5 +1,5 @@
 {
-    "name": "wildside/userstamps",
+    "name": "glyphco/userstamps",
     "description": "Eloquent trait to automatically maintain created_by and updated_by (and deleted_by when using SoftDeletes) on your models",
     "license": "MIT",
     "keywords": [
@@ -22,7 +22,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Wildside\\Userstamps\\": "src"
+            "glyphco\\userstamps\\": "src"
         }
     }
 }
